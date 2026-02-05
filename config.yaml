@@ -21,7 +21,7 @@ params:
   version: 3
   customCSS: false
 
-  favicon: /images/nav-img.jpeg
+  #favicon: /images/nav-img.jpeg
   description: "Gatee's personal portfolio"
 
   # Navbar Menus
