@@ -1,0 +1,221 @@
+baseURL: "https://madhavsharma-portfolio.netlify.app/"
+languageCode: "en-us"
+title: "Gatee Gala | Portfolio"
+theme: "./.."
+relativeURLs: true
+
+googleanalytics: UA-xxxxxx-x
+disqusShortname:
+Paginate: 3
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+  
+enableEmoji: true
+params:
+  version: 3
+  customCSS: false
+
+  #favicon: /images/nav-img.png
+  description: "Gatee's personal portfolio"
+
+  # Navbar Menus
+  
+
+  # home
+  disable_home: false
+  #profile_image: /images/nav-img.png
+  name: "Gatee Gala"
+  namecolor: 800080
+  profession: "Project Lead @ Rise//Dell"
+  github: "https://github.com/GateeGala/"
+  linkedin: "https://www.linkedin.com/in/marketingwithgatee"
+  #twitter: "https://twitter.com/Rohan20075428"
+  gmail: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
+  #instagram: "https://instagram.com/__rohan__95?utm_medium=copy_link"
+  
+
+  # Custom social links
+  customSocialLinks:
+    - fontAwesomeIconName: "fa fa-envelope"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
+      fontAwesomeIconName: "fa fa-envelope"
+      url: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
+
+  # About
+  disable_about: false  
+  descripe_l1_person:  "Passionate and results-driven marketing professional with proven success in boosting brand visibility, audience engagement, and fan loyalty through innovative digital strategies and content-led campaigns.\n                                                                               \nSkilled in social media management, data-driven marketing, and multi-channel campaign execution to amplify brand presence and drive growth. Adept at building strategic partnerships, leading cross-functional projects, and creating compelling brand experiences.   \n                                                                                                         \nCreative, adaptable, and deeply passionate about storytelling, audience connection, and consumer behaviour, especially in fast-paced, culture-driven industries."
+
+
+  descripe_l2_person: "### KEY ACHIEVEMENTS"
+  descripe_l3_person: "Assigned as a team leader for group projects and presentations at the University."
+  descripe_l4_person: "Awarded an Academic Excellence International Masters scholarship of  £5000 at the University of Essex."
+  descripe_l5_person: "Achieved outstanding results in Statistics and Predictive Modelling using Machine Learning at the University."
+  descripe_l6_person: "Earned intern of the month title because of my ability to analyse data, generate successful insights and find appropriate key performance indicators (KPIs)."
+  descripe_l7_person: "Awarded as the best final year project during Bachelors for developing an E-Commerce Mobile application by implementing a Cart Discarding analysis and Recommendation System for listed products."
+  descripe_l8_person: "Successfully implemented a Machine Learning model for detecting fake reviews and achieved an overall accuracy of 90%."
+
+  skills:
+    - name: Project Management
+      percentage: 85
+    - name: Budget Management
+      percentage: 80
+    - name: Marketing Strategy
+      percentage: 80
+    - name: Brand Building & Development
+      percentage: 90
+    - name: Digital Marketing & Content Strategy
+      percentage: 80
+    - name: Graphic Designing & Content Development
+      percentage: 80
+    - name: Consumer Research & Marketing
+      percentage: 80
+    - name: Leadership
+      percentage: 90
+    - name: Social Media Strategy Building & Management
+      percentage: 90
+    - name: Advanced Microsoft Excel
+      percentage: 80
+    - name: Google Analytics
+      percentage: 60
+    - name: SEO Tools & Google,Microsoft Ads
+      percentage: 75
+    - name: Excellent Communication Skills & Campaign Management
+      percentage: 90
+    
+
+  # Experience
+  disable_experience: false
+  experience:
+    - company: "Revitalized JetSynthesys"
+      id: "JetSynthesys"
+      role: "Marketing Account Executive (Mumbai, India)"
+      startdate: "September 2021"
+      enddate: "June 2022"
+      featuredpoints:
+        - point: " Coordinated a research project with 200+ participants, leading to a feature in the Time of India."
+        - point: "Spearheaded a successful influencer campaign for the Pokémon Official Asia Channel, generating over 950K views. "
+        - point: "Coordinated a research project with 200+ participants, leading to a feature in the Time of India."
+        - point: "Built social media strategy, achieving a 100% increase in Instagram followers and 70% on Twitter. • Spearheaded a successful influencer campaign for the Pokémon Official Asia Channel, generating over 950K views."
+    - company: "TuneCore"
+      id: "TC"
+      role: "Marketing and Communications Manager (Mumbai, India)"
+      startdate: "June 2022"
+      enddate: "December 2023"
+      featuredpoints:
+        - point: "Developed and managed TuneCore India's social media strategy - created scalable campaigns keeping in mind company targets, budgets and ROI. Designed messaging, visual assets and copy for these campaigns. "
+        - point: "Spearheaded the TuneCore Grant project, achieving a 93% growth on Instagram, generating 155 million press impressions and doubling new client acquisitions. "
+        - point: "Fostered collaborations with artists and industry partners, enhancing brand visibility and engagement."
+        - point: "Oversaw video shoots and photography, wrote scripts and assisted in translation services."
+        - point: "Executed localisation of marketing campaigns by effectively communicating with peers across global teams to seamlessly incorporate the brand identity."
+    - company: "Fox Cyclying"
+      id: "FC"
+      role: "Social Media Manager (Portishead, England)"
+      startdate: "May 2024"
+      enddate: "September 2024"
+      featuredpoints:
+        - point: "Developed and managed comprehensive content calendars to enhance brand visibility for Fox Cycling. "
+        - point: "Optimized posting schedules and tracked performance metrics to ensure maximum engagement."
+        - point: "Achieved a 30% increase in organic engagement, driving lead generation and contributing to sold-out classes."
+        - point: "Implemented upselling and cross-selling techniques, exceeding sales targets by 50% each month."
+        - point: "Contributed to social media content creation and boosting engagement."
+    - company: "Rise//Dell"
+      id: "RD"
+      role: "Project Lead (Mumbai, India)"
+      startdate: "October 2025"
+      enddate: "-"
+
+  #certifications section
+  disable_certification: false
+  certification:  
+     - Name: Bristol Plus Award
+       institution: University of Bristol
+       startdate: "May 2024"
+       #enddate: "October 2023"
+       link:
+         - weblink: "https://www.linkedin.com/in/marketingwithgatee/overlay/1718245267234/single-media-viewer/?profileId=ACoAABhoZH0BMDY3Ru3s6-wsqSv6NmWGApIXFjQ"
+           certificate: "View Certificate"
+    
+  # Education
+  disable_education: false
+  education:
+    - degree: "MSc"
+      branch: "Management (Marketing), Business, Management, Marketing, and Related Support Services"
+      university: "University of Bristol (GPA 2.1)"
+      startedyear: "2023"
+      graduation: "2024"
+    - degree: "Bachelor of Arts"
+      branch: "BA, Psychology, History, AIHCA"
+      university: "University of Mumbai"
+      startedyear: "2020"
+      graduation: "2023"
+    
+
+  # Projects
+  disable_projects: false
+  projects:
+    - name: "PowerBI Projects"
+      img: /images/Microsoft-Power-BI-Symbol-300x270.jpg
+      githublink: "https://github.com/ms21949/PowerBI-Projects"
+      description: "This Power BI repository features projects on Superstore Sales Analysis and Twitch Streaming Analysis, providing comprehensive insights into sales performance and viewer engagement, respectively."
+    - name: "Fake Review Detection Using Supervised Machine Learning"
+      img: /images/nlp.jpeg
+      githublink: "https://github.com/ms21949/NLP"
+      #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "The idea behind this project was to use WordLemmatizer along with an N-gram Model. Further vectorising the Product-Review text using a Term Frequency - Inverse Document Frequency (TF-IDF) and then fine-tuning a supervised Machine Learning Model to predict if the review is fake or real."
+    - name: "Coupon recommendation for vehicle infotainment systems"
+      img: /images/car.jpeg
+      githublink: "https://github.com/ms21949/Binary-Classification"
+      #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "The following code is based on the dataset which was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc., and then ask the person whether he will accept the coupon if he is the driver."
+    - name: "Rossmann Store Sales Prediction"
+      img: /images/shop.avif
+      githublink: "https://github.com/ms21949/Sales-Prediction-"
+      #featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied."
+    - name: "Construction Management Firm Evaluator (Deployed on AWS EC2)"
+      img: /images/invest-real-estate-icon-flat-design-house-building-investment-money-industry-financial-finance-business-residential-61464178.jpeg
+      githublink: "https://github.com/ms21949/Construction-Management-Firm-Evaluator"
+      featuredlink: "http://ec2-34-228-37-227.compute-1.amazonaws.com:8080/"
+      description: "After scraping and converting the data into a CSV, performed some Exploratory Data Analysis on the Dataset and implemented a Machine Learning Model to predict if the Firm is worth Investing and vice versa.  I have built an interactive Flask Web Application including two fields I. e, Rank and Revenue using the model developed in the previous step. "
+    - name: "Credit Score Estimator"
+      img: /images/credit.jpeg
+      githublink: "https://github.com/ms21949/CreditScore-Estimator"
+      featuredlink: "https://credit-score-estimator.herokuapp.com/"
+      description: "Given a persons credit-related information, build a machine learning model that can classify the credit score."
+
+    
+    
+    
+    
+  # services
+  disable_achievements: true
+  achievements:
+    - title: "Website Development"
+      description: "Design a website for personal use or for business purpose using HTML, CSS, JS and Python."
+      img: /images/Website-Design-new.jpg
+    - title: Data Analysis
+      description: "With the help of tableu or python analyze the data of the business or client needs which help them to solve business problems."
+      img: /images/da.jpg
+      # url: https://example.com
+    - title: Machine Learning & Deep Learning
+      description: "Build various types of ML and DL models according to business or client needs in which it helps to solve complex business issues." 
+      img: /images/ml.png
+    
+  # Contact
+  disable_contact: false
+  contact_content: My inbox is always open. Whether you have a question or just want to say hi, I'll try my best to get back to you! 
+  email: "madhavsharma511@mail.com"
+
+  # Footer
+  socialiconfooter: true
+  recentposts: true
+
+  # Blog
+  showdescription: false
+  tweet: true
