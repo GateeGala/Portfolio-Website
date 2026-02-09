@@ -33,7 +33,7 @@ params:
   name: "Gatee Gala"
   namecolor: 800080
   profession: "Project Lead @ Rise//Dell"
-  github: "https://github.com/GateeGala/"
+  #github: "https://github.com/GateeGala/"
   linkedin: "https://www.linkedin.com/in/marketingwithgatee"
   #twitter: "https://twitter.com/Rohan20075428"
   gmail: "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=madhavsharma511@gmail.com"
@@ -49,7 +49,7 @@ params:
 
   # About
   disable_about: false  
-  descripe_l1_person:  "Passionate and results-driven marketing professional with proven success in boosting brand visibility, audience engagement, and fan loyalty through innovative digital strategies and content-led campaigns.\n                                                                               \nSkilled in social media management, data-driven marketing, and multi-channel campaign execution to amplify brand presence and drive growth. Adept at building strategic partnerships, leading cross-functional projects, and creating compelling brand experiences.   \n                                                                                                         \nCreative, adaptable, and deeply passionate about storytelling, audience connection, and consumer behaviour, especially in fast-paced, culture-driven industries."
+  descripe_l1_person:  "Music marketing professional experienced in integrated campaign delivery, using audience segmentation and audience insights to strengthen the fan engagement strategy. Confident in stakeholder management and cross-functional collaboration, applying social listening and trend forecasting to inform editorial planning and campaign optimisation, supported by performance analytics and KPI development."
 
 
   descripe_l2_person: "### KEY ACHIEVEMENTS"
